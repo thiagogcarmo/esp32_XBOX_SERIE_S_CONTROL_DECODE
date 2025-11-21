@@ -2,7 +2,8 @@
 #include <Adafruit_NeoPixel.h>
 
 // --- CONFIGURAÇÕES ---
-#define XBOX_MAC_ADDR "44:16:22:F2:5F:EB" 
+//- para encontrear o MAC address do seu joystick instalar app android BLE Scan e colocar o dispositivo em modo de pareamento
+#define XBOX_MAC_ADDR "MAC address do seu dispositivo".
 #define NEOPIXEL_PIN 8  
 #define NUM_PIXELS   1 
 
